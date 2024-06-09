@@ -1,0 +1,94 @@
+[
+    {
+        title: "Florida férfi újra megpróbálkozik a világ legnagyobb pancsolómedencéjének megépítésével",
+        description: "Egy helyi lakos újra nekifut a világ legnagyobb pancsolómedencéjének megépítésének, miután az előző 17 próbálkozás kudarcba fulladt."
+    },
+    {
+        title: "Miami kutya elnyeri az 'Év leglustább kutyája' címet",
+        description: "Egy miami bulldog, Szende, hivatalosan is elnyerte az 'Év leglustább kutyája' címet, miután egy egész évet ágyban töltött."
+    },
+    {
+        title: "Helyi nyúl meglepi lakótársait egy bikiniszezon előtti diétával",
+        description: "Egy helyi nyúl, Rágcsáló, meglepte lakótársait egy bikiniszezon előtti diétával, amelynek eredményeként több répát fogyasztottak, mint valaha."
+    },
+    {
+        title: "Fegyveres összecsapások Miami utcáin",
+        description: "Az elmúlt éjszaka során több fegyveres banda összecsapott Miami déli részén, többen megsérültek."
+    },
+    {
+        title: "Drogfogás a kikötőben",
+        description: "A vámosok egy nagy mennyiségű kábítószert találtak egy hajó raktárában, az ügy még vizsgálat alatt áll."
+    },
+    {
+        title: "Cápatámadás a South Beachen",
+        description: "Egy helyi szörfös súlyosan megsérült, miután egy cápa támadást intézett ellene a South Beach partjainál."
+    },
+    {
+        title: "Helyi lakosok pizzakemencét építenek egy helyi parkban",
+        description: "Néhány helyi lakos döntött úgy, hogy pizzakemencét épít egy helyi parkban, miután egy pizzafutár hibázott és a parkban hagyta a rendelést."
+    },
+    {
+        title: "Helyi állatmenhely egy különleges összejövetelt rendez a fogadó nélküli kacsák számára",
+        description: "A helyi állatmenhely úgy döntött, hogy egy különleges összejövetelt rendez a fogadó nélküli kacsák számára, miután egy helyi étterem elbukott egy kacsapörkölt kóstolóval."
+    },
+    {
+        title: "Lázadások a börtönben",
+        description: "A börtönben több rablázadás tört ki az elmúlt napokban, az őrök és a helyi hatóságok nehezen tudják kezelni a helyzetet."
+    },
+    {
+        title: "Gázolás az Okeechobee úton",
+        description: "Egy autós gázolt el egy gyalogost az Okeechobee úton, a sérült személyt kórházba szállították."
+    },
+    {
+        title: "Szökés a helyi börtönből",
+        description: "Egy elítélt sikeresen megszökött a helyi börtönből, a rendőrség intenzív keresést folytat az elkövető után."
+    },
+    {
+        title: "Csalás a helyi kaszinóban",
+        description: "A város egyik kaszinójában több csaló bandát is lelepleztek, akik különböző trükkökkel próbáltak pénzt szerezni."
+    },
+    {
+        title: "Helyi nyomozók a kétezredik UFO-észlelést nyomozzák Miami éjszakáiban",
+        description: "A helyi rendőrség és ufó-hívők együtt dolgoznak azon, hogy kiderítsék, mi okozza a fényjelenségeket az éjszakai égbolton, és megtalálják a kétezredik UFO-t."
+    },
+    {
+        title: "Miami felnőttek kempingezni indulnak a helyi bevásárlóközpont parkolójába",
+        description: "Egy csoport helyi felnőtt úgy döntött, hogy kempingezni indul a helyi bevásárlóközpont parkolójába, miután egy ötletelés során arra jutottak, hogy ez a legközelebbi dolog a természethez."
+    },
+    {
+        title: "Helyi manikűrös a világ legnagyobb körömlemezét tervezi",
+        description: "Egy miami manikűrös bejelentette terveit a világ legnagyobb körömlemezének elkészítésére, amelyet Miami főútjára helyeznek, hogy a világ minden részéről vonzza az érdeklődőket."
+    },
+    {
+        title: "Terrorveszély a repülőtéren",
+        description: "A Miami Nemzetközi Repülőtéren terrorveszélyre utaló fenyegetéseket kaptak, a hatóságok fokozott biztonsági intézkedéseket vezettek be."
+    },
+    {
+        title: "Robbanás egy helyi étteremben",
+        description: "Egy gázrobbanás történt egy Miami Beach-i étteremben, több embert kórházba kellett szállítani."
+    },
+    {
+        title: "Politikai botrány az önkormányzatban",
+        description: "Korrupciós botrány tört ki az önkormányzatban, több tisztviselőt vizsgál az FBI."
+    },
+    {
+        title: "Hatalmas kokain lefoglalás a kikötőben",
+        description: "A hatóságok hatalmas mennyiségű kokaint foglaltak le egy konténerben a kikötőben, az ügy még vizsgálat alatt áll."
+    },
+    {
+        title: "Szárazság és tűzveszély az Evergladesben",
+        description: "Az Everglades területén szárazság és tűzveszély fenyeget, a helyi hatóságok figyelmeztetéseket adtak ki."
+    },
+    {
+        title: "Villámcsapás a Miami Beach-i strandon",
+        description: "Egy villámcsapás érte a Miami Beach-i strandot, szerencsére senki sem sérült meg."
+    },
+    {
+        title: "FBI rajtaütés egy illegális fogadóhelyen",
+        description: "Az FBI rajtaütést hajtott végre egy illegális fogadóhelyen, több gyanúsítottat őrizetbe vettek."
+    },
+    {
+        title: "Kábítószer-kereskedők lebukása",
+        description: "Több kábítószer-kereskedőt tartóztattak le egy nagyobb rendőrségi akció keretében."
+    }
+];
